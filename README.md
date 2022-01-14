@@ -16,7 +16,7 @@
 - nunca executa codigo assincrono diretamente no useEffect, cria uma funcao e depois a chama no useEffect
 - Funcionalidade de deleção implementada
 
-#### file-upload-button customizado
+#### file-upload-button customizado, no safari e no chrome funcionou, mas no Firefox não
 - css adicionado no App.css
 ```
 ::-webkit-file-upload-button {
